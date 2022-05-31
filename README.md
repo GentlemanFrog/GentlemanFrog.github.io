@@ -4,7 +4,7 @@ This page will be devoted to documenting the daily (if you forget to commit) the
 
 ### Data science road map plan:
 
-1. Excel and statistics: 
+1. Excel and statistics 
 2. BI tools
 3. Python: Numpy, Pandas, data visulization
 4. SQL & MongoDB
