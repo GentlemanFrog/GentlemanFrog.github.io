@@ -14,3 +14,4 @@ For more detailed roadmap please look here: https://github.com/codebasics/py/blo
 ## Day 1: creating github pages:
 
 Looks good to me :>, please enjoy this photo of the rain frog 
+![Grumpy rain frog](rainfrog.jpg)
